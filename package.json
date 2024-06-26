@@ -1,0 +1,17 @@
+{
+  "name": "my-git",
+  "version": "1.0.0",
+  "description": "V0 feature/\r - init\r - add files\r Add your files to the staging area\r - commit <messages>\r You will be able to commit files\r - log commits\r see the logs\r - show <commit>\r diff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "diff": "^5.2.0"
+  }
+}
